@@ -1,12 +1,7 @@
 import streamlit as st
 import requests
-
-
-
-
-
 #step 1 is establishing our UI to interact with backend
-st.set_page_config(page_title="AI AGENT USING LANGCHAIN AND LANGGRAPH",layout='centered')
+st.set_page_config(page_title="AI AGENT USING LANGCHAIN AND LANGGRAPH",layout='wide')
 st.title("AI AGENT USING LANGCHAIN (LLMS) AND LANGGRAPH")
 st.write("Create and interact with AI Agents")
 system_prompt = st.text_area("Define your AI Agent",height=70,placeholder="Eg Act as Language Expert.....")
