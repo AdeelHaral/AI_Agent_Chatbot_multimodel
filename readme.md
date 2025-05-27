@@ -3,6 +3,9 @@
 An intelligent and customizable AI chatbot agent built using [LangChain](https://www.langchain.com/), [LangGraph](https://github.com/langchain-ai/langgraph), and [FastAPI](https://fastapi.tiangolo.com/). This project supports multi-provider LLMs like **OpenAI** and **Groq**, and includes optional **agentic web search** via the **Tavily API**.
 
 ---
+![Flowchart](flowcharts.jpg)
+
+
 
 ## 🧠 Features
 
@@ -29,5 +32,3 @@ An intelligent and customizable AI chatbot agent built using [LangChain](https:/
 
 
 ---
-![Flowchart](flowcharts.jpg)
-
