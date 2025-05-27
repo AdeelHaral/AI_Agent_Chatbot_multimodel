@@ -27,4 +27,6 @@ An intelligent and customizable AI chatbot agent built using [LangChain](https:/
 - **Streamlit** for frontend UI
 - **Pydantic**, **Uvicorn**, and **Requests**
 
+
 ---
+![Flowchart](AI_Agent_Chatbot_multimodel/Flowchart%20-%20Frame%201.jpg)
