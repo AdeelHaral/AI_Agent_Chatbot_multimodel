@@ -29,4 +29,4 @@ An intelligent and customizable AI chatbot agent built using [LangChain](https:/
 
 
 ---
-![Flowchart](AI_Agent_Chatbot_multimodel/Flowchart%20-%20Frame%201.jpg)
+![Flowchart](AI_Agent_Chatbot_multimodel/flowcharts.jpg)
